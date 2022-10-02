@@ -2,12 +2,12 @@ git config
 git init- For create a git in a folder
 git clone
 git add -> for staging a file in git/ git add . -> for all file in staging area.. 
-git commit
+git commit -m -> for add file with commit in master branch
 git diff
 git reset
 git status -> for which sitsuations or branch in your git folder
 git rm
-git log
+git log -> for show commits
 git show
 git tag
 git branch
