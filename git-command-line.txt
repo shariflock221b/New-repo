@@ -10,8 +10,8 @@ git rm
 git log -> for show commits
 git show
 git tag
-git branch
-git checkout
+git branch -> for show which branch you stay
+git checkout -> for change the location or version or branch switch
 git merge
 git remote
 git push
