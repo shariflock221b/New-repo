@@ -1,0 +1,21 @@
+git config
+git init- For create a git in a folder
+git clone
+git add -> for staging a file in git/ git add . -> for all file in staging area.. 
+git commit
+git diff
+git reset
+git status -> for which sitsuations or branch in your git folder
+git rm
+git log
+git show
+git tag
+git branch
+git checkout
+git merge
+git remote
+git push
+git pull
+git stash
+
+code . -> for open files in visual code editor
